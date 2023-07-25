@@ -1,1 +1,2 @@
 # Dictionary-App
+The Basic Dictionary App is a simple yet powerful tool designed to provide users with quick and easy access to word meanings and definitions. This application serves as a digital language reference, allowing users to look up words and their corresponding meanings instantly. Developed for both convenience and educational purposes, the app is built with a user-friendly interface to cater to users of all ages and language proficiency levels.
